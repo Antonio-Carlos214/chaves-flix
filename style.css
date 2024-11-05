@@ -39,6 +39,6 @@ body {
   
   .categoria-videos img:hover {
     opacity: 1.0;
-    border: 1px solid green;
+    border: 1px solid rgba(0, 109, 128, 0.582);
 }
  
