@@ -24,21 +24,4 @@ body {
     margin-right: 5%;
   }
 
-  .categoria-videos img:hover {
-    opacity: 1.0;
-    border: 1px solid rgba(255, 253, 253, 0.952);
-}
-
-  h1 {
-    font-size: 40px;
-  }
-  
-  p {
-    font-size: 20px;
-  }
-  
-  .categoria-videos img:hover {
-    opacity: 1.0;
-    border: 1px solid rgba(0, 109, 128, 0.582);
-}
  
