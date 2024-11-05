@@ -23,10 +23,10 @@ body {
   .chamada-texto {
     margin-right: 5%;
   }
-  
+
   .categoria-videos img:hover {
     opacity: 1.0;
-    border: 1px solid green;
+    border: 1px solid rgba(186, 193, 204, 0.952);
 }
 
   h1 {
