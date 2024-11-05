@@ -52,7 +52,7 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgba(3, 212, 3, 0.87);
+    border: 3px solid rgba(0, 0, 0, 0.87);
 }
 
 .categoria h2 {
