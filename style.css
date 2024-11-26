@@ -48,6 +48,7 @@ p {
 .categoria-videos img {
     opacity: 0.5;
     height: 200px;
+    overflow-x: auto;
 }
 
 .categoria-videos img:hover {
